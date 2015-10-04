@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <metadata name="corpsText.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="corpsText.Text" xml:space="preserve">
+    <value>ߛߎ߲ߝߘߍ ߣߌ߲߬ ߦߋ߫ ߓߊߘߋ߲ ߠߎ߬ ߘߍ߬ߡߍ߲߬ߝߋ߲ ߘߏ߫ ߟߋ߬ ߘߌ߫ ߕߟߋ߬ߓߊ߬ ߟߊ߬ ߛߓߍߟߌ ߘߐ߫. ߊ߬ ߘߴߊ߲ ߘߍ߬ߡߍ߲߬ ߛߓߍߟߌ ߞߍ߫ ߟߊ߫ ߞߊߟߌߦߊ ߛߎ߮ ߓߍ߯ ߘߐ߫߸ ߣߐ߰ߦߊ ߘߝߊߣߍ߲ ߘߐ߫. 
+ߊߟߎ߫ ߘߌ߫ ߛߎ߲ߛߓߍ ߛߌߦߊߡߊ߲߫ ߖߊ߬ߡߎ߲߬ ߦߴߊ߬ ߘߐ߫߸ ߏ߬ ߞߘߐ ߟߋ߬ ߞߴߊߟߎ߫ ߘߌ߫ ߛߋ߫ ߏ߬ ߟߎ߬ ߟߊ߫ ߞߐߕߐ߮ ߟߎ߬ ߛߌ߲ߘߌ߫ ߟߊ߫. ߣߌ߫ ߛߎ߲ߛߓߍ ߏ߬ ߘߏ߫ ߟߎ߫ ߟߊ߫ ߞߐߕߐ߮ ߞߍ߫ ߘߊ߫ ߊߟߎ߫ ߞߎ߲߬ ߞߊ߬ߞߘߐ߬߸ ߏ߬ ߟߎ߬ ߘߌ߫ ߛߋ߫ ߘߊߦߟߍ߬ ߟߴߊ߬ ߟߊ߫߸ ߞߊ߬ ߓߊ߲߫ ߞߵߊ߬ߟߎ߬ ߡߊߦߍ߬ߟߍ߲߬ߡߊ߲߬ ߕߐߟߍ߫.</value>
+  </data>
+  <data name="conseils.Text" xml:space="preserve">
+    <value>ߛߓߍߞߊߟߌ߲ ߝߙߋߞߋ ߟߎ߬ ߝߎߟߊߓߊ߯ ߓߘߍ ߦߋ߫ ߘߍ߬ߡߍ߲߬ߠߌ ߢߌ߲ ߠߋ߬ ߘߌ߫߸ ߞߊߘߊ߲ߓߐ ߦߋ߫ ߘߍ߬ߡߍ߲߬ߠߌ ߏ߬ ߘߏ߫ ߟߋ߬ ߘߌ߫.
+ߘߍ߬ߡߍ߲߬ߠߌ ߡߍ߲߬ ߣߌ߫ ߞߊ߬ߘߊ߲ߓߐߣߍ߲ ߠߎ߫ ߟߋ߬ ߓߊ߯ߙߊ߫ ߟߊ߫ ߞߋߟߋ߲߫ ߘߌ߫߸ ߞߊߘߊ߲ߓߐߣߍ߲ ߦߋ߫ ߞߎߡߊ߫ ߟߊ߫ ߛߓߍߟߌ ߣߌ߫ ߛߌ߲ߘߟߌ ߣߌ߫ ߛߊߞߍߟߌ ߟߋ߬ ߞߊ߲߬. ߌߞߐߡߌ߲߬ ߞߊߘߊ߲ߓߐߣߍ߲ ߛߓߍߟߌ߫ ߞߣߍ ߓߏ߲߬ߓߊ߬ ߕߍ߫߸ ߣߴߊߟߎ߫ ߡߊ߫ ߡߍ߲ ߦߋ߫ ߊ߬ ߞߣߐ߫߸ ߊߟߎ߫ ߘߌ߫ ߞߊߘߊ߲ߓߐ ߞߊ߬ߝߊ ߘߐߜߍ߫߸ ߊ߬ ߛߌߦߊߡߊ߲ ߘߐ߫߸ ߊߟߎ߫ ߕߍ߫ ߝߏ߫ ߏ߬ ߟߊ߫. ߣߴߊߟߎ߫ ߡߊ߫ ߞߏ ߏ߬ ߦߋ߫ ߞߊߘߊ߲ߓߐ ߘߐ߫ ߊߟߎ߫ ߘߌ߫ ߞߋߛߓߍ ߘߏ߫ ߟߊߣߊ߬ ߊ߲ ߡߊ߬ ߝߙߋߞߋ ߏ߬ ߞߊ߲߬.
+</value>
+  </data>
+  <metadata name="Label1.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <metadata name="Label2.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+  <data name="Label2.Text" xml:space="preserve">
+    <value>ߛߌ߲ߘߟߌ ߣߌ߫ ߘߊߦߟߍߟߌ ߣߌ߫ ߟߊ߬ߡߙߊ߬ߟߌ ߏ߬ ߢߊߝߐߣߍ߲ ߝߟߍ߫ ߞߊߘߊ߲ߓߐߣߍ߲ ߘߐ߫ ߓߊ߫.
+
+ߛߎ߲߬ߝߘߍ ߣߌ߲߬ ߦߴߊߟߎ߫ ߘߍ߬ߡߍ߲߬ ߠߊ߫ ߊߟߎ߫ ߟߊ߫ ߛߓߍߟߌ ߛߊߞߍ߫ ߟߊ߫ ߟߋ߬ ߝߋߎ߫߸ ߏ߬ ߝߣߊ߫ ߞߍ߫ ߢߊ ߝߐߣߍ߲߫ ߠߋ߬ ߞߊߘߊ߲ߓߐߣߍ߲ ߘߐ߫ ߞߵߊ߬ ߕߐ߬ߝߍ߬ߦߊ ߞߊߘߊ߲ߓߐ ߘߐ߫ ߞߏߛߓߍ߫.
+
+ߞߊߘߊ߲ߓߐߣߍ߲ ߦߋ߫ ߞߐߜߍ߫ ߝߌ߬ߟߊ ߟߋ߬ ߘߌ߫߸ ߊ߬ ߦߋ߫ ߝߕߌߣߍ߲ ߠߋ߬ ߝߐ߫ ߟߊ߫ ߞߊߘߊ߲ߓߐ ߞߣߐߘߐ ߘߐ߫߸ ߊ߬ ߞߐߜߍ߫ ߂ ߏ߬ ߟߎ߬ ߝߟߍ߫ ߣߌ߲߬ ߘߎ߰ߟߊ߬.
+
+ߞߊߘߊ߲ߓߐ ߘߌ߫ ߛߋ߫ ߟߊߖߌ߰ ߟߴߊߟߎ߫ ߟߊ߫ ߘߎ߰ߟߊ߬ ߘߌ߬ߓߌ߬ߜߋ߲ ߝߍ߬. ߊ߬ ߓߌ߬ߟߊ߬ߣߍ߲߫ ߊ߲ ߓߟߏ߫ ߛߎ߲ߝߘߍ ߖߍ߬ߘߍ ߟߋ߬ ߞߣߐ߫ ߓߊ ߓߟߐߟߐ ߟߊ߫ ߞߏ߫ ߣߐ߰ߡߊ߲߬ ߕߍ߫ ߓߍ߯ ߝߍ߬. ߣߌ߫ ߡߍ߲ ߠߎ߬ ߞߊ߬ ߓߟߐߟߐ ߡߊߛߐ߬ߘߐ߲߬ ߏ߬ ߟߎ߬ ߘߌ߫ ߞߊߘߊ߲ߓߐ ߣߌ߫ ߛߓߍߞߊߟߌ߲ ߓߐߞߏ߫ ߞߎߘߊ ߟߎ߬ ߟߌ߬ߤߟߊ߫ ߢߌߣߌ߲߫ ߒߞߏ ߞߍߦߙߐ ߟߎ߬ ߟߊ߫.
+
+ߞߊߘߊ߲ߓߐ ߟߊߖߌ߰ ߛߘߌߜߋ߲ ߠߋ߫ ߣߌ߲߬.</value>
+  </data>
+  <metadata name="$this.Locked" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+    <value>True</value>
+  </metadata>
+</root>

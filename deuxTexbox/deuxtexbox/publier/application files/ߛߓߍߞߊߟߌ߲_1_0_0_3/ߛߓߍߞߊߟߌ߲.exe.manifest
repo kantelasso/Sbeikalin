@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="ߛߓߍߞߊߟߌ߲.exe" version="1.0.0.3" publicKeyToken="cf9f5f0f20a06962" language="nqo" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="FassoIcone.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ߛߓߍߞߊߟߌ߲" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ߛߓߍߞߊߟߌ߲.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!-- Options du manifeste de contrôle de compte d'utilisateur
+             Si vous souhaitez modifier le niveau du contrôle de compte d'utilisateur Windows, remplacez le nœud 
+             requestedExecutionLevel par l'une des propositions suivantes.
+
+        <requestedExecutionLevel  level="asInvoker"  uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator"  uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable"  uiAccess="false" />
+
+            La spécification du nœud requestedExecutionLevel désactivera la virtualisation de fichiers et du Registre.
+            Si vous souhaitez utiliser la virtualisation de fichiers et du Registre pour la compatibilité 
+            descendante, supprimez le noeud requestedExecutionLevel.
+        -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ߛߓߍߞߊߟߌ߲.exe" size="403456">
+      <assemblyIdentity name="ߛߓߍߞߊߟߌ߲" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Qni3XT77LcbTFXm4yKWdIJ5DBmsLSwAFmZg9F9DX7tI=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="FassoIcone.ico" size="44990">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>e4ZSZfCJtNrC8RHECHruYcBH/6LW39Ygbs0DD5Q5Mi0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="ߛߓߍߞߊߟߌ߲.exe.config" size="304">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>ixBVNUdov6Zyjb6z0SFtn3GU9XYVWewGWcTksjYKcls=</dsig:DigestValue>
+    </hash>
+  </file>
+  <compatibility xmlns="urn:schemas-microsoft-com:compatibility.v1">
+    <application>
+      <!-- Liste de toutes les versions de Windows avec lesquelles cette application peut fonctionner. 
+      Windows sélectionnera automatiquement l'environnement le plus compatible.-->
+      <!-- Si votre application est conçue pour fonctionner avec Windows Vista, supprimez les commentaires du nœud supportedOS suivant-->
+      <!--<supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}"></supportedOS>-->
+      <!-- Si votre application est conçue pour fonctionner avec Windows 7, supprimez les commentaires du nœud supportedOS suivant-->
+      <!--<supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}"/>-->
+      <!-- Si votre application est conçue pour fonctionner avec Windows 8, supprimez les commentaires du nœud supportedOS suivant-->
+      <!--<supportedOS Id="{4a2f28e3-53b9-4441-ba9c-d69d4a4a6e38}"></supportedOS>-->
+      <!-- Si votre application est conçue pour fonctionner avec Windows 8.1, supprimez les commentaires du nœud supportedOS suivant-->
+      <!--<supportedOS Id="{1f676c76-80e1-4239-95bb-83d0f6d0da78}"/>-->
+    </application>
+  </compatibility>
+<publisherIdentity name="CN=KANTE\LANCINE" issuerKeyHash="9be94218ffb473f0ce1801a415438df32d41fe1f" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>yXKKWuVMVDXwlWkX+RBoNAWbRheXSCc/9yWiTborgyo=</DigestValue></Reference></SignedInfo><SignatureValue>ZXKaSrit9nFFBdG1LeprFZZtKAlNoEhTT2s/aK75P73MWebKqxqQsjn1tnhdOdUOve+isnS1WLkab0V4B1i/5ImJ3vqmInMWoBV20Twt3zWPChlG4KUD/ewNhOu4c/sndEUvuqD+aY3BGi6ZREyh/r2ntfA+uMhzWHymOd3DCvo=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>1UP18ZO/heVR27Na3Ya6YEDsxOT53vp3uCThx2sDSUYjnO8aWFjuHzbp1T19ZkBW6JcZPge4oyqovVFyLvHT4d/e54HlIhFxfWosC5DD6bMEJCkBwxigRpLBAfrAxImoLkAnEN4Gi9GGAK8A4/HawNZqSK+0Av/1a6+3wcB26Sc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="2a832bba4da225f73f27489717469b05346810f9176995f035544ce55a8a72c9" Description="" Url=""><as:assemblyIdentity name="ߛߓߍߞߊߟߌ߲.exe" version="1.0.0.3" publicKeyToken="cf9f5f0f20a06962" language="nqo" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=KANTE\LANCINE</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>msOtYHWbeOKr+vKvQP2FciZJxvnF0+LlCg3sSMV489U=</DigestValue></Reference></SignedInfo><SignatureValue>aOX1d42d+Ukqy0Nf2hw+QqjkPkkkG5g4fUge5GY6AyjdYoX31BwSkYic/xUBQDpYCmqDKHMpejSf3YlztHNLF5GM+Y+2Ir9O46IBVR8Z0u1h1hMLE9/kb+q8AeWMP7CMXoThmiVv0HoAHd6gBMLrOXqRcJofKs6B3163r4ZCMTg=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>1UP18ZO/heVR27Na3Ya6YEDsxOT53vp3uCThx2sDSUYjnO8aWFjuHzbp1T19ZkBW6JcZPge4oyqovVFyLvHT4d/e54HlIhFxfWosC5DD6bMEJCkBwxigRpLBAfrAxImoLkAnEN4Gi9GGAK8A4/HawNZqSK+0Av/1a6+3wcB26Sc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQP13ieFPzSaZOaaf6SclvazANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoASwBBAE4AVABFAFwATABBAE4AQwBJAE4ARTAeFw0xNDA4MjAxOTU3MjBaFw0xNTA4MjEwMTU3MjBaMCUxIzAhBgNVBAMeGgBLAEEATgBUAEUAXABMAEEATgBDAEkATgBFMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDVQ/Xxk7+F5VHbs1rdhrpgQOzE5Pne+ne4JOHHawNJRiOc7xpYWO4fNunVPX1mQFbolxk+B7ijKqi9UXIu8dPh397ngeUiEXF9aiwLkMPpswQkKQHDGKBGksEB+sDEiaguQCcQ3gaL0YYArwDj8drA1mpIr7QC//Vrr7fBwHbpJwIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAKOx3pI9E0MU54yGc8lMZMIwjn8EVXiSL+2kQLlp3PD0wniDVmR4zagjPaRRTwaLlTxPK8/LTC5LeplnWU9YU8ev9P+8BXzWu7ztHdWHYVVa1SGNkya9ARRRTgFDijvJ8fU+T4YW3wSztKGd/LBdVywPBTRmPjraU37A7clIhgh+</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,323 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D69F6106-35AE-44BA-A5F3-20FE67A3E0FB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Sbeikalin.My.MyApplication</StartupObject>
+    <RootNamespace>Sbeikalin</RootNamespace>
+    <AssemblyName>ߛߓߍߞߊߟߌ߲</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\Sbeikalin 1.0.1.1\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <TargetCulture>nqo</TargetCulture>
+    <ProductName>ߛߓߍߞߊߟߌ߲</ProductName>
+    <PublisherName>ߟߊߛߣߍ߫ ߞߊ߲ߕߍ߫</PublisherName>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>4</ApplicationRevision>
+    <ApplicationVersion>1.0.1.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <CreateDesktopShortcut>true</CreateDesktopShortcut>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ߛߓߍߞߊߟߌ߲.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ߛߓߍߞߊߟߌ߲.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>F7669429A2D0D7FA76256BE35EFE0C411DFD25DD</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>sbeilikalin_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\Sebekalin tomayeren.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="accueil.Designer.vb">
+      <DependentUpon>accueil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="accueil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="beforeCloseApp.Designer.vb">
+      <DependentUpon>beforeCloseApp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="beforeCloseApp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="avantControlBoite.Designer.vb">
+      <DependentUpon>avantControlBoite.vb</DependentUpon>
+    </Compile>
+    <Compile Include="avantControlBoite.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="captureDEcran.Designer.vb">
+      <DependentUpon>captureDEcran.vb</DependentUpon>
+    </Compile>
+    <Compile Include="captureDEcran.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="commentaire.Designer.vb">
+      <DependentUpon>commentaire.vb</DependentUpon>
+    </Compile>
+    <Compile Include="commentaire.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="exControl.Designer.vb">
+      <DependentUpon>exControl.vb</DependentUpon>
+    </Compile>
+    <Compile Include="exControl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Londohyali.Designer.vb">
+      <DependentUpon>Londohyali.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Londohyali.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="rappelCapture.Designer.vb">
+      <DependentUpon>rappelCapture.vb</DependentUpon>
+    </Compile>
+    <Compile Include="rappelCapture.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="helpForm.Designer.vb">
+      <DependentUpon>helpForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="helpForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Kadambo.Designer.vb">
+      <DependentUpon>Kadambo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Kadambo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="kadambo2.Designer.vb">
+      <DependentUpon>kadambo2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="kadambo2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="nonPermis.Designer.vb">
+      <DependentUpon>nonPermis.vb</DependentUpon>
+    </Compile>
+    <Compile Include="nonPermis.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="accueil.resx">
+      <DependentUpon>accueil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="beforeCloseApp.resx">
+      <DependentUpon>beforeCloseApp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="avantControlBoite.resx">
+      <DependentUpon>avantControlBoite.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="captureDEcran.resx">
+      <DependentUpon>captureDEcran.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="commentaire.resx">
+      <DependentUpon>commentaire.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="exControl.resx">
+      <DependentUpon>exControl.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Londohyali.resx">
+      <DependentUpon>Londohyali.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rappelCapture.resx">
+      <DependentUpon>rappelCapture.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="helpForm.resx">
+      <DependentUpon>helpForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Kadambo.resx">
+      <DependentUpon>Kadambo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="kadambo2.resx">
+      <DependentUpon>kadambo2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>PublicVbMyResourcesResXFileCodeGenerator</Generator>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="nonPermis.resx">
+      <DependentUpon>nonPermis.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+    <None Include="Resources\guide_User.pdf" />
+    <None Include="sbeilikalin_CléTemporaire.pfx" />
+    <None Include="sbeilikalin_TemporaryKey.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 et x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="FassoIcone.ico" />
+    <None Include="Resources\Sebekalin tomayeren.ico" />
+    <None Include="Resources\FassoIcone.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="AxAcroPDFLib">
+      <Guid>{05BFD3F1-6319-4F30-B752-C7A22889BCC4}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

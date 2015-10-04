@@ -1,0 +1,98 @@
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\sbeilikalin.vbproj.GenerateResource.Cache
+D:\Programma\deuxTexbox\deuxTexbox\bin\Debug\ߛߓߍߞߊߟߌ߲.exe.config
+D:\Programma\deuxTexbox\deuxTexbox\bin\Debug\ߛߓߍߞߊߟߌ߲.exe.manifest
+D:\Programma\deuxTexbox\deuxTexbox\bin\Debug\ߛߓߍߞߊߟߌ߲.application
+D:\Programma\deuxTexbox\deuxTexbox\bin\Debug\ߛߓߍߞߊߟߌ߲.exe
+D:\Programma\deuxTexbox\deuxTexbox\bin\Debug\ߛߓߍߞߊߟߌ߲.pdb
+D:\Programma\deuxTexbox\deuxTexbox\bin\Debug\ߛߓߍߞߊߟߌ߲.xml
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.Form1.resources
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.Resources.resources
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\ߛߓߍߞߊߟߌ߲.exe.manifest
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\ߛߓߍߞߊߟߌ߲.application
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\ߛߓߍߞߊߟߌ߲.exe
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\ߛߓߍߞߊߟߌ߲.xml
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\ߛߓߍߞߊߟߌ߲.pdb
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.helpForm.resources
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.accueil.resources
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.Kadambo.resources
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.kadambo2.resources
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\sbeilikalin.vbprojResolveAssemblyReference.cache
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.commentaire.resources
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.nonPermis.resources
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.captureDEcran.resources
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.rappelCapture.resources
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.Londohyali.resources
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.beforeCloseApp.resources
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.avantControlBoite.resources
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.exControl.resources
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\bin\Debug\ߛߓߍߞߊߟߌ߲.exe.config
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\ߛߓߍߞߊߟߌ߲.exe
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\ߛߓߍߞߊߟߌ߲.xml
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\ߛߓߍߞߊߟߌ߲.pdb
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\bin\Debug\ߛߓߍߞߊߟߌ߲.exe.manifest
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\bin\Debug\ߛߓߍߞߊߟߌ߲.application
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\bin\Debug\ߛߓߍߞߊߟߌ߲.exe
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\bin\Debug\ߛߓߍߞߊߟߌ߲.pdb
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\bin\Debug\ߛߓߍߞߊߟߌ߲.xml
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\sbeilikalin.vbprojResolveAssemblyReference.cache
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.accueil.resources
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.beforeCloseApp.resources
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.avantControlBoite.resources
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.captureDEcran.resources
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.commentaire.resources
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.exControl.resources
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.Londohyali.resources
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.rappelCapture.resources
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.Form1.resources
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.helpForm.resources
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.Kadambo.resources
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.kadambo2.resources
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.Resources.resources
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.nonPermis.resources
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\sbeilikalin.vbproj.GenerateResource.Cache
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\ߛߓߍߞߊߟߌ߲.exe.manifest
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\ߛߓߍߞߊߟߌ߲.application
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\Interop.AcroPDFLib.dll
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\obj\Debug\sbeilikalin.vbproj.ResolveComReference.cache
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\bin\Debug\Interop.AcroPDFLib.dll
+D:\Dropbox\My logitheque\deuxTexbox\deuxTexbox\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\bin\Debug\ߛߓߍߞߊߟߌ߲.exe.config
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\Interop.AcroPDFLib.dll
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\sbeilikalin.vbproj.ResolveComReference.cache
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\ߛߓߍߞߊߟߌ߲.exe
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\ߛߓߍߞߊߟߌ߲.xml
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\ߛߓߍߞߊߟߌ߲.pdb
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\bin\Debug\ߛߓߍߞߊߟߌ߲.exe.manifest
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\bin\Debug\ߛߓߍߞߊߟߌ߲.application
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\bin\Debug\ߛߓߍߞߊߟߌ߲.exe
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\bin\Debug\ߛߓߍߞߊߟߌ߲.pdb
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\bin\Debug\ߛߓߍߞߊߟߌ߲.xml
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\bin\Debug\Interop.AcroPDFLib.dll
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\sbeilikalin.vbprojResolveAssemblyReference.cache
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.accueil.resources
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.beforeCloseApp.resources
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.avantControlBoite.resources
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.captureDEcran.resources
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.commentaire.resources
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.exControl.resources
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.Londohyali.resources
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.rappelCapture.resources
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.Form1.resources
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.helpForm.resources
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.Kadambo.resources
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.kadambo2.resources
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.Resources.resources
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\Sbeikalin.nonPermis.resources
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\sbeilikalin.vbproj.GenerateResource.Cache
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\ߛߓߍߞߊߟߌ߲.exe.manifest
+D:\Dropbox\My logitheque\Sbeikalin_ALL\PourWin8\deuxTexbox\deuxTexbox\deuxTexbox\obj\Debug\ߛߓߍߞߊߟߌ߲.application
+D:\Dropbox\MyLogitheque\Sbeikalin\deuxTexbox\bin\Debug\ߛߓߍߞߊߟߌ߲.exe.config
+D:\Dropbox\MyLogitheque\Sbeikalin\deuxTexbox\obj\Debug\Interop.AcroPDFLib.dll
+D:\Dropbox\MyLogitheque\Sbeikalin\deuxTexbox\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\Dropbox\MyLogitheque\Sbeikalin\deuxTexbox\obj\Debug\sbeilikalin.vbproj.ResolveComReference.cache
+D:\Dropbox\MyLogitheque\Sbeikalin\deuxTexbox\obj\Debug\ߛߓߍߞߊߟߌ߲.exe
+D:\Dropbox\MyLogitheque\Sbeikalin\deuxTexbox\obj\Debug\ߛߓߍߞߊߟߌ߲.xml
+D:\Dropbox\MyLogitheque\Sbeikalin\deuxTexbox\obj\Debug\ߛߓߍߞߊߟߌ߲.pdb

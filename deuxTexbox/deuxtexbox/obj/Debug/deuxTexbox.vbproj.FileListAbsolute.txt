@@ -1,0 +1,10 @@
+D:\Programma\deuxTexbox\deuxTexbox\bin\Debug\deuxTexbox.exe.config
+D:\Programma\deuxTexbox\deuxTexbox\bin\Debug\deuxTexbox.exe
+D:\Programma\deuxTexbox\deuxTexbox\bin\Debug\deuxTexbox.pdb
+D:\Programma\deuxTexbox\deuxTexbox\bin\Debug\deuxTexbox.xml
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\deuxTexbox.Form1.resources
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\deuxTexbox.Resources.resources
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\deuxTexbox.vbproj.GenerateResource.Cache
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\deuxTexbox.exe
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\deuxTexbox.xml
+D:\Programma\deuxTexbox\deuxTexbox\obj\Debug\deuxTexbox.pdb
